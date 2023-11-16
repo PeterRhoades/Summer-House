@@ -1,12 +1,4 @@
-/*Peter Rhoades©:
-Sunday 14/11/21:
-Folder Summer_House_Temp_Hum_DHT22_Multi:
-Send data to thingSpeak Channel Inc SHT21 Temperature & Humidity®: 
-Summer House Temperature DHT22 : 
-%%channel_1654219_field_1%%°C 
-Summer House Humidity DHT22: 
-%%channel_1654219_field_2%%% 
-*/
+
 #include <ESP8266WiFi.h>
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
 WiFiClient  client;
