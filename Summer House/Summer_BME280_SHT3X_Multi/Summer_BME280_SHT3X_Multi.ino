@@ -1,10 +1,3 @@
-/*
-See https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md for details. 
-ThingSpeak ( https://www.thingspeak.com ) Visit https://www.thingspeak.com to sign up for a free account and create a channel.  
-https://www.mathworks.com/help/thingspeak/index.html for the full ThingSpeak documentation.
-Copyright 2020, The MathWorks, Inc.
-Folder ESP32\Three Field Individual and Multiple Read
-*/
 
 #include <ESP8266WiFi.h>
 #include <Wire.h>
